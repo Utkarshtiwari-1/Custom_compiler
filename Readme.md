@@ -46,7 +46,7 @@ These commands form the full compilation and execution pipeline: from high-level
 
 ## 📁 Folder Structure
 ```
-sage_compiler/
+compiler/
 ├── main.cpp           # Compiler entry point
 ├── tokenizer.cpp      # Splits input into tokens
 ├── tokenizer.h
