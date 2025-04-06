@@ -1,0 +1,1 @@
+Z = SQUAREADD(A, B)
