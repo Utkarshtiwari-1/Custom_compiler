@@ -1,4 +1,6 @@
-# Roll No = 23115103 #
+# Roll No = 23115103
+# sem = 4th
+# Compiler Design Assignment
 
 # 🛠️ Building a Simple Custom Compiler for `Z = A^2 + B` 
 
